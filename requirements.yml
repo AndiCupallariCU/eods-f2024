@@ -1,0 +1,30 @@
+name: eods-f24
+channels: 
+    - conda-forge
+    - nodefaults
+dependencies:
+    - python=3.10.*
+    - pandas=1.4.*
+    - scikit-learn=1.1.*
+    - ipython
+    - ipykernel
+    - ipywidgets
+    - statsmodels
+    - seaborn
+    - spacy
+    - nltk
+    - beautifulsoup4
+    - pandas-datareader
+    - xlrd
+    - openpyxl
+    - twython
+    - sqlalchemy
+    - pandasql
+    - pymongo
+    - nbformat
+    - plotly
+    - pillow
+    - pyarrow
+    - flask
+    - mlxtend
+    - imbalanced-learn
