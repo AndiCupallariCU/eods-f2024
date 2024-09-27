@@ -1,0 +1,1001 @@
+id,purpose,annual_inc,home_ownership,loan_amnt,outcome
+id0,credit_card,40000,MORTGAGE,7875,paid off
+id1,debt_consolidation,47000,MORTGAGE,9325,paid off
+id2,debt_consolidation,28264,RENT,10600,paid off
+id3,debt_consolidation,65000,RENT,6000,paid off
+id4,debt_consolidation,22000,RENT,7900,paid off
+id5,debt_consolidation,43200,MORTGAGE,8400,paid off
+id6,debt_consolidation,72000,RENT,18000,paid off
+id7,other,30000,MORTGAGE,2400,paid off
+id8,debt_consolidation,90000,RENT,10000,paid off
+id9,debt_consolidation,88000,RENT,20000,paid off
+id10,other,90000,MORTGAGE,15000,paid off
+id11,other,72000,MORTGAGE,18950,paid off
+id12,home_improvement,204000,MORTGAGE,35000,paid off
+id13,debt_consolidation,60000,RENT,20000,paid off
+id14,credit_card,105000,RENT,14000,paid off
+id15,credit_card,110000,MORTGAGE,12000,paid off
+id16,credit_card,80000,RENT,8000,paid off
+id17,debt_consolidation,88000,MORTGAGE,7000,paid off
+id18,home_improvement,240000,MORTGAGE,18000,paid off
+id19,debt_consolidation,36000,RENT,15850,paid off
+id20,debt_consolidation,41985,RENT,4000,paid off
+id21,credit_card,41150,MORTGAGE,12000,paid off
+id22,debt_consolidation,63400,RENT,16000,paid off
+id23,debt_consolidation,20400,OWN,1275,paid off
+id24,credit_card,75689,MORTGAGE,9600,paid off
+id25,credit_card,86000,RENT,25000,paid off
+id26,debt_consolidation,40212,RENT,3600,paid off
+id27,credit_card,51000,RENT,7475,paid off
+id28,debt_consolidation,90000,MORTGAGE,5000,paid off
+id29,debt_consolidation,70000,MORTGAGE,9000,paid off
+id30,debt_consolidation,60000,RENT,12000,paid off
+id31,debt_consolidation,85000,OWN,6000,paid off
+id32,credit_card,55403,MORTGAGE,20375,paid off
+id33,debt_consolidation,84000,MORTGAGE,35000,paid off
+id34,credit_card,157000,MORTGAGE,7200,paid off
+id35,debt_consolidation,112000,MORTGAGE,5000,paid off
+id36,medical,75000,RENT,8000,paid off
+id37,credit_card,43500,MORTGAGE,6250,paid off
+id38,debt_consolidation,30000,RENT,7200,paid off
+id39,home_improvement,80004,OWN,2425,paid off
+id40,debt_consolidation,48000,MORTGAGE,13925,paid off
+id41,wedding,40322,RENT,6000,paid off
+id42,other,35000,RENT,6000,paid off
+id43,debt_consolidation,104000,MORTGAGE,21000,paid off
+id44,debt_consolidation,50000,RENT,8000,paid off
+id45,debt_consolidation,67000,RENT,12400,paid off
+id46,debt_consolidation,50000,RENT,8400,paid off
+id47,debt_consolidation,36000,RENT,10000,paid off
+id48,debt_consolidation,50000,RENT,14300,paid off
+id49,debt_consolidation,82000,RENT,4600,paid off
+id50,debt_consolidation,65000,MORTGAGE,12000,paid off
+id51,car,60000,MORTGAGE,5000,paid off
+id52,debt_consolidation,80000,RENT,12300,paid off
+id53,vacation,111740,MORTGAGE,5000,paid off
+id54,small_business,25000,OWN,8450,paid off
+id55,debt_consolidation,30000,RENT,4000,paid off
+id56,other,22584,RENT,1800,paid off
+id57,credit_card,50000,RENT,3500,paid off
+id58,medical,60000,RENT,6000,paid off
+id59,debt_consolidation,52000,OWN,20000,paid off
+id60,debt_consolidation,106000,MORTGAGE,18000,paid off
+id61,debt_consolidation,60000,RENT,15000,paid off
+id62,credit_card,200000,MORTGAGE,1000,paid off
+id63,debt_consolidation,38176,MORTGAGE,8000,paid off
+id64,credit_card,40000,MORTGAGE,17875,paid off
+id65,debt_consolidation,45000,MORTGAGE,12000,paid off
+id66,credit_card,63200,MORTGAGE,27250,paid off
+id67,debt_consolidation,50500,MORTGAGE,6000,paid off
+id68,credit_card,170000,MORTGAGE,35000,paid off
+id69,debt_consolidation,110000,OWN,7800,paid off
+id70,debt_consolidation,30000,RENT,8000,paid off
+id71,debt_consolidation,68000,RENT,4625,paid off
+id72,debt_consolidation,37000,MORTGAGE,6000,paid off
+id73,debt_consolidation,75000,RENT,5500,paid off
+id74,small_business,125000,RENT,30000,paid off
+id75,credit_card,22526,OWN,8050,paid off
+id76,debt_consolidation,19000,OWN,7400,paid off
+id77,other,35000,MORTGAGE,4950,paid off
+id78,debt_consolidation,20400,RENT,3125,paid off
+id79,debt_consolidation,70000,MORTGAGE,18000,paid off
+id80,debt_consolidation,98500,MORTGAGE,20000,paid off
+id81,home_improvement,109000,MORTGAGE,20000,paid off
+id82,debt_consolidation,65000,MORTGAGE,7425,paid off
+id83,credit_card,49000,OWN,7200,paid off
+id84,home_improvement,38000,RENT,16000,paid off
+id85,debt_consolidation,30000,RENT,1750,paid off
+id86,other,250000,MORTGAGE,35000,paid off
+id87,credit_card,28000,MORTGAGE,12000,paid off
+id88,debt_consolidation,50000,RENT,15200,paid off
+id89,debt_consolidation,60000,MORTGAGE,16000,paid off
+id90,other,14880,RENT,6000,paid off
+id91,debt_consolidation,27000,RENT,7500,paid off
+id92,debt_consolidation,128000,MORTGAGE,21000,paid off
+id93,debt_consolidation,105500,MORTGAGE,25000,paid off
+id94,other,51996,OWN,6000,paid off
+id95,other,220000,RENT,14000,paid off
+id96,debt_consolidation,26004,MORTGAGE,4000,paid off
+id97,debt_consolidation,90000,RENT,17625,paid off
+id98,credit_card,130000,OWN,12500,paid off
+id99,debt_consolidation,62400,MORTGAGE,7000,paid off
+id100,credit_card,75000,RENT,10000,paid off
+id101,other,72000,RENT,3000,paid off
+id102,debt_consolidation,79000,RENT,16000,paid off
+id103,debt_consolidation,109000,MORTGAGE,24000,paid off
+id104,home_improvement,96000,MORTGAGE,10000,paid off
+id105,credit_card,100000,MORTGAGE,10000,paid off
+id106,debt_consolidation,54000,MORTGAGE,28200,paid off
+id107,debt_consolidation,68000,RENT,11200,paid off
+id108,major_purchase,105996,MORTGAGE,4800,paid off
+id109,debt_consolidation,76000,MORTGAGE,12000,paid off
+id110,debt_consolidation,91728,MORTGAGE,14500,paid off
+id111,other,60000,MORTGAGE,7500,paid off
+id112,home_improvement,70000,MORTGAGE,10000,paid off
+id113,other,75000,MORTGAGE,12000,paid off
+id114,credit_card,85000,MORTGAGE,14000,paid off
+id115,debt_consolidation,57000,MORTGAGE,10000,paid off
+id116,debt_consolidation,48000,RENT,3000,paid off
+id117,debt_consolidation,98000,RENT,28000,paid off
+id118,debt_consolidation,55000,MORTGAGE,4800,paid off
+id119,debt_consolidation,62000,MORTGAGE,25000,paid off
+id120,debt_consolidation,94100,MORTGAGE,12000,paid off
+id121,debt_consolidation,60000,MORTGAGE,26325,paid off
+id122,debt_consolidation,201000,RENT,13500,paid off
+id123,credit_card,50000,RENT,12500,paid off
+id124,other,94000,OWN,25000,paid off
+id125,home_improvement,42996,RENT,5000,paid off
+id126,debt_consolidation,36000,MORTGAGE,7000,paid off
+id127,credit_card,130000,RENT,15000,paid off
+id128,credit_card,43480,RENT,8400,paid off
+id129,debt_consolidation,125000,MORTGAGE,15000,paid off
+id130,credit_card,90000,MORTGAGE,20000,paid off
+id131,other,83000,MORTGAGE,32875,paid off
+id132,debt_consolidation,73440,OWN,35000,paid off
+id133,medical,131000,MORTGAGE,8400,paid off
+id134,debt_consolidation,90000,MORTGAGE,23650,paid off
+id135,debt_consolidation,160000,MORTGAGE,35000,paid off
+id136,debt_consolidation,78000,RENT,10000,paid off
+id137,wedding,90000,MORTGAGE,8000,paid off
+id138,credit_card,55000,RENT,15000,paid off
+id139,debt_consolidation,52000,OWN,4800,paid off
+id140,debt_consolidation,45000,RENT,10000,paid off
+id141,debt_consolidation,65000,OWN,16000,paid off
+id142,debt_consolidation,48000,RENT,15600,paid off
+id143,other,39600,RENT,19000,paid off
+id144,home_improvement,96600,MORTGAGE,14000,paid off
+id145,major_purchase,30000,OWN,2500,paid off
+id146,debt_consolidation,60000,RENT,14000,paid off
+id147,credit_card,68000,RENT,7000,paid off
+id148,other,44619,RENT,2000,paid off
+id149,debt_consolidation,88000,MORTGAGE,7000,paid off
+id150,credit_card,63731,MORTGAGE,7800,paid off
+id151,credit_card,58981,OWN,12000,paid off
+id152,debt_consolidation,59000,MORTGAGE,15000,paid off
+id153,moving,105185,MORTGAGE,10000,paid off
+id154,debt_consolidation,105000,RENT,20000,paid off
+id155,major_purchase,70000,OWN,15600,paid off
+id156,debt_consolidation,42000,MORTGAGE,7000,paid off
+id157,debt_consolidation,40000,MORTGAGE,13650,paid off
+id158,credit_card,42000,RENT,6600,paid off
+id159,house,24000,RENT,5800,paid off
+id160,house,45000,RENT,22325,paid off
+id161,debt_consolidation,77000,MORTGAGE,12000,paid off
+id162,debt_consolidation,65000,MORTGAGE,19000,paid off
+id163,debt_consolidation,52000,MORTGAGE,21250,paid off
+id164,debt_consolidation,45000,RENT,9600,paid off
+id165,credit_card,84000,RENT,16000,paid off
+id166,credit_card,65000,RENT,26000,paid off
+id167,debt_consolidation,68000,RENT,12000,paid off
+id168,debt_consolidation,40000,MORTGAGE,10800,paid off
+id169,debt_consolidation,67000,RENT,9000,paid off
+id170,debt_consolidation,56500,RENT,15900,paid off
+id171,debt_consolidation,40000,RENT,15600,paid off
+id172,wedding,31200,RENT,15800,paid off
+id173,debt_consolidation,41000,RENT,13475,paid off
+id174,debt_consolidation,55500,RENT,12000,paid off
+id175,debt_consolidation,32000,RENT,10625,paid off
+id176,debt_consolidation,61000,MORTGAGE,20000,paid off
+id177,debt_consolidation,49000,MORTGAGE,10000,paid off
+id178,credit_card,75000,MORTGAGE,3000,paid off
+id179,debt_consolidation,77100,RENT,12000,paid off
+id180,credit_card,35800,RENT,12000,paid off
+id181,debt_consolidation,125000,RENT,33950,paid off
+id182,debt_consolidation,70000,MORTGAGE,29700,paid off
+id183,credit_card,70000,MORTGAGE,14000,paid off
+id184,debt_consolidation,27000,RENT,4000,paid off
+id185,debt_consolidation,50000,MORTGAGE,18650,paid off
+id186,debt_consolidation,25000,RENT,8950,paid off
+id187,debt_consolidation,55000,RENT,12000,paid off
+id188,debt_consolidation,24000,RENT,9600,paid off
+id189,house,73100,MORTGAGE,24700,paid off
+id190,debt_consolidation,65000,OWN,3500,paid off
+id191,home_improvement,57000,RENT,3600,paid off
+id192,house,52000,OWN,19750,paid off
+id193,debt_consolidation,172000,MORTGAGE,6000,paid off
+id194,credit_card,36000,RENT,12000,paid off
+id195,debt_consolidation,75000,RENT,5000,paid off
+id196,debt_consolidation,83000,MORTGAGE,20000,paid off
+id197,credit_card,30000,MORTGAGE,7000,paid off
+id198,debt_consolidation,30000,MORTGAGE,8875,paid off
+id199,debt_consolidation,22000,RENT,11000,paid off
+id200,debt_consolidation,50000,OWN,14400,paid off
+id201,debt_consolidation,334000,OWN,18000,paid off
+id202,credit_card,45000,RENT,20000,paid off
+id203,moving,50000,RENT,3000,paid off
+id204,debt_consolidation,82000,MORTGAGE,14725,paid off
+id205,home_improvement,101000,OWN,24000,paid off
+id206,major_purchase,55000,RENT,2500,paid off
+id207,debt_consolidation,56000,MORTGAGE,21250,paid off
+id208,moving,35000,RENT,2000,paid off
+id209,debt_consolidation,65000,RENT,6000,paid off
+id210,debt_consolidation,75000,MORTGAGE,12000,paid off
+id211,major_purchase,120000,MORTGAGE,6000,paid off
+id212,credit_card,72000,RENT,14400,paid off
+id213,debt_consolidation,35000,RENT,10000,paid off
+id214,home_improvement,58000,MORTGAGE,3000,paid off
+id215,debt_consolidation,125000,MORTGAGE,14000,paid off
+id216,credit_card,35000,RENT,9600,paid off
+id217,debt_consolidation,124000,MORTGAGE,6150,paid off
+id218,debt_consolidation,70000,RENT,9600,paid off
+id219,house,95000,RENT,9450,paid off
+id220,credit_card,145000,MORTGAGE,10000,paid off
+id221,debt_consolidation,45000,MORTGAGE,6000,paid off
+id222,home_improvement,65000,MORTGAGE,29175,paid off
+id223,debt_consolidation,40000,MORTGAGE,11975,paid off
+id224,credit_card,78500,MORTGAGE,16800,paid off
+id225,other,110000,RENT,11200,paid off
+id226,major_purchase,48000,RENT,7200,paid off
+id227,credit_card,90000,MORTGAGE,6000,paid off
+id228,debt_consolidation,45000,MORTGAGE,15000,paid off
+id229,debt_consolidation,120000,MORTGAGE,35000,paid off
+id230,debt_consolidation,50000,RENT,8825,paid off
+id231,home_improvement,62000,MORTGAGE,7800,paid off
+id232,wedding,42000,RENT,12000,paid off
+id233,credit_card,68250,RENT,10350,paid off
+id234,credit_card,57000,MORTGAGE,2000,paid off
+id235,debt_consolidation,54000,RENT,10000,paid off
+id236,credit_card,84000,MORTGAGE,20950,paid off
+id237,other,50000,RENT,5600,paid off
+id238,debt_consolidation,49000,MORTGAGE,8000,paid off
+id239,home_improvement,52000,MORTGAGE,15000,paid off
+id240,debt_consolidation,54000,RENT,4000,paid off
+id241,debt_consolidation,53000,MORTGAGE,9600,paid off
+id242,major_purchase,82000,MORTGAGE,20000,paid off
+id243,wedding,80000,RENT,3600,paid off
+id244,debt_consolidation,101516,RENT,26300,paid off
+id245,credit_card,93000,MORTGAGE,28000,paid off
+id246,debt_consolidation,156600,MORTGAGE,25000,paid off
+id247,major_purchase,233000,MORTGAGE,22000,paid off
+id248,other,88000,RENT,35000,paid off
+id249,medical,68000,MORTGAGE,8400,paid off
+id250,other,120000,MORTGAGE,7000,paid off
+id251,debt_consolidation,68000,RENT,14200,paid off
+id252,credit_card,77400,MORTGAGE,8000,paid off
+id253,credit_card,38000,RENT,8000,paid off
+id254,home_improvement,40000,MORTGAGE,4500,paid off
+id255,debt_consolidation,52000,MORTGAGE,3000,paid off
+id256,small_business,100000,RENT,24000,paid off
+id257,credit_card,71000,OWN,10000,paid off
+id258,other,60000,OWN,11500,paid off
+id259,debt_consolidation,40000,RENT,8000,paid off
+id260,debt_consolidation,42500,MORTGAGE,9000,paid off
+id261,small_business,35000,RENT,5000,paid off
+id262,home_improvement,50000,MORTGAGE,9600,paid off
+id263,debt_consolidation,150000,MORTGAGE,35000,paid off
+id264,debt_consolidation,65000,MORTGAGE,16000,paid off
+id265,debt_consolidation,55680,MORTGAGE,20000,paid off
+id266,debt_consolidation,80000,RENT,3000,paid off
+id267,debt_consolidation,114000,MORTGAGE,16000,paid off
+id268,credit_card,62467,RENT,7250,paid off
+id269,debt_consolidation,16152,MORTGAGE,4800,paid off
+id270,debt_consolidation,76900,MORTGAGE,15900,paid off
+id271,debt_consolidation,41000,RENT,6000,paid off
+id272,debt_consolidation,45000,RENT,12000,paid off
+id273,debt_consolidation,120000,MORTGAGE,24000,paid off
+id274,debt_consolidation,100850,MORTGAGE,20000,paid off
+id275,debt_consolidation,90000,MORTGAGE,7000,paid off
+id276,debt_consolidation,43000,RENT,7500,paid off
+id277,credit_card,85000,MORTGAGE,35000,paid off
+id278,small_business,90000,MORTGAGE,21000,paid off
+id279,major_purchase,31200,OWN,6000,paid off
+id280,debt_consolidation,60000,MORTGAGE,3000,paid off
+id281,credit_card,10000,OWN,2000,paid off
+id282,debt_consolidation,90600,RENT,12800,paid off
+id283,credit_card,67700,OWN,20000,paid off
+id284,moving,45000,RENT,2500,paid off
+id285,other,38000,MORTGAGE,2400,paid off
+id286,debt_consolidation,13200,RENT,2500,paid off
+id287,other,80000,RENT,12000,paid off
+id288,debt_consolidation,165000,RENT,30225,paid off
+id289,home_improvement,80000,MORTGAGE,8000,paid off
+id290,debt_consolidation,54000,MORTGAGE,5550,paid off
+id291,debt_consolidation,65000,MORTGAGE,3000,paid off
+id292,debt_consolidation,100000,MORTGAGE,28000,paid off
+id293,debt_consolidation,60000,MORTGAGE,18750,paid off
+id294,debt_consolidation,75000,MORTGAGE,18000,paid off
+id295,debt_consolidation,45000,RENT,15000,paid off
+id296,moving,55800,MORTGAGE,3200,paid off
+id297,home_improvement,39000,MORTGAGE,6900,paid off
+id298,major_purchase,120000,RENT,5000,paid off
+id299,credit_card,42000,RENT,9000,paid off
+id300,debt_consolidation,130000,MORTGAGE,25000,paid off
+id301,credit_card,125000,RENT,19200,paid off
+id302,credit_card,39000,RENT,15000,paid off
+id303,credit_card,31000,MORTGAGE,7200,paid off
+id304,other,42000,RENT,9000,paid off
+id305,debt_consolidation,49000,MORTGAGE,20000,paid off
+id306,debt_consolidation,108000,MORTGAGE,30000,paid off
+id307,debt_consolidation,39000,RENT,12000,paid off
+id308,debt_consolidation,42500,RENT,3200,paid off
+id309,debt_consolidation,70000,MORTGAGE,21200,paid off
+id310,credit_card,54096,RENT,4900,paid off
+id311,debt_consolidation,85000,MORTGAGE,16000,paid off
+id312,small_business,25200,RENT,6000,paid off
+id313,debt_consolidation,29000,MORTGAGE,7200,paid off
+id314,debt_consolidation,50000,RENT,12500,paid off
+id315,debt_consolidation,104000,MORTGAGE,14000,paid off
+id316,credit_card,85000,MORTGAGE,17100,paid off
+id317,debt_consolidation,45000,RENT,10000,paid off
+id318,other,100000,RENT,3850,paid off
+id319,debt_consolidation,50000,RENT,24575,paid off
+id320,debt_consolidation,53000,RENT,23500,paid off
+id321,debt_consolidation,120000,RENT,10000,paid off
+id322,debt_consolidation,45000,RENT,5000,paid off
+id323,home_improvement,76800,MORTGAGE,20000,paid off
+id324,debt_consolidation,32500,RENT,10625,paid off
+id325,small_business,110000,MORTGAGE,21000,paid off
+id326,credit_card,65000,MORTGAGE,4675,paid off
+id327,debt_consolidation,22464,RENT,4500,paid off
+id328,debt_consolidation,19000,RENT,6825,paid off
+id329,debt_consolidation,138000,MORTGAGE,16800,paid off
+id330,other,33000,MORTGAGE,4000,paid off
+id331,debt_consolidation,49000,MORTGAGE,9350,paid off
+id332,debt_consolidation,43200,MORTGAGE,10000,paid off
+id333,credit_card,122350,MORTGAGE,7000,paid off
+id334,credit_card,75000,MORTGAGE,19975,paid off
+id335,debt_consolidation,60000,OWN,8000,paid off
+id336,home_improvement,30000,MORTGAGE,2400,paid off
+id337,credit_card,32400,OWN,8400,paid off
+id338,other,50000,OWN,19125,paid off
+id339,other,35000,RENT,2400,paid off
+id340,debt_consolidation,40000,RENT,15000,paid off
+id341,debt_consolidation,43000,RENT,13350,paid off
+id342,debt_consolidation,61300,MORTGAGE,24000,paid off
+id343,moving,73000,RENT,15000,paid off
+id344,debt_consolidation,100000,RENT,29000,paid off
+id345,debt_consolidation,64000,RENT,15000,paid off
+id346,debt_consolidation,29000,RENT,6250,paid off
+id347,debt_consolidation,60000,RENT,11000,paid off
+id348,home_improvement,50000,OWN,15000,paid off
+id349,debt_consolidation,38000,RENT,10000,paid off
+id350,debt_consolidation,45000,RENT,16100,paid off
+id351,debt_consolidation,50000,RENT,17000,paid off
+id352,home_improvement,60000,RENT,9000,paid off
+id353,small_business,70000,RENT,27975,paid off
+id354,home_improvement,84000,MORTGAGE,12000,paid off
+id355,debt_consolidation,60000,MORTGAGE,20000,paid off
+id356,small_business,125000,OWN,35000,paid off
+id357,home_improvement,60000,MORTGAGE,16000,paid off
+id358,debt_consolidation,37500,OTHER,12000,paid off
+id359,debt_consolidation,110000,MORTGAGE,10000,paid off
+id360,debt_consolidation,135000,RENT,23100,paid off
+id361,debt_consolidation,260000,MORTGAGE,20000,paid off
+id362,debt_consolidation,169600,OWN,24000,paid off
+id363,credit_card,34000,RENT,10000,paid off
+id364,debt_consolidation,68000,MORTGAGE,15000,paid off
+id365,credit_card,35000,MORTGAGE,12000,paid off
+id366,debt_consolidation,69000,RENT,6000,paid off
+id367,other,15000,RENT,12000,paid off
+id368,home_improvement,35000,OTHER,4800,paid off
+id369,debt_consolidation,63240,RENT,20000,paid off
+id370,debt_consolidation,144000,MORTGAGE,12000,paid off
+id371,debt_consolidation,68000,MORTGAGE,16300,paid off
+id372,debt_consolidation,50000,MORTGAGE,8075,paid off
+id373,credit_card,44000,MORTGAGE,14400,paid off
+id374,debt_consolidation,100000,MORTGAGE,12000,paid off
+id375,debt_consolidation,30809,RENT,11200,paid off
+id376,debt_consolidation,80000,MORTGAGE,14000,paid off
+id377,other,49000,RENT,10000,paid off
+id378,debt_consolidation,30000,RENT,4800,paid off
+id379,credit_card,200000,OWN,16000,paid off
+id380,credit_card,108000,MORTGAGE,35000,paid off
+id381,vacation,165000,MORTGAGE,8000,paid off
+id382,debt_consolidation,47000,MORTGAGE,10000,paid off
+id383,credit_card,49000,MORTGAGE,7000,paid off
+id384,debt_consolidation,117000,MORTGAGE,15000,paid off
+id385,home_improvement,187000,MORTGAGE,19400,paid off
+id386,credit_card,83000,MORTGAGE,8575,paid off
+id387,debt_consolidation,125000,MORTGAGE,22000,paid off
+id388,debt_consolidation,56000,RENT,12000,paid off
+id389,home_improvement,100000,MORTGAGE,7800,paid off
+id390,car,48000,RENT,3000,paid off
+id391,other,51000,RENT,18000,paid off
+id392,credit_card,67000,MORTGAGE,29700,paid off
+id393,small_business,120000,MORTGAGE,23850,paid off
+id394,home_improvement,108000,MORTGAGE,25000,paid off
+id395,credit_card,24000,RENT,4000,paid off
+id396,other,60000,OWN,4800,paid off
+id397,credit_card,42000,MORTGAGE,18225,paid off
+id398,home_improvement,34320,MORTGAGE,1900,paid off
+id399,other,131000,MORTGAGE,5000,paid off
+id400,debt_consolidation,100000,MORTGAGE,35000,paid off
+id401,debt_consolidation,170000,MORTGAGE,16000,paid off
+id402,debt_consolidation,52400,RENT,12000,paid off
+id403,debt_consolidation,37000,OWN,11000,paid off
+id404,credit_card,52000,MORTGAGE,11000,paid off
+id405,credit_card,63320,OWN,10000,paid off
+id406,major_purchase,200000,MORTGAGE,15000,paid off
+id407,other,20000,RENT,6000,paid off
+id408,debt_consolidation,35000,RENT,12000,paid off
+id409,debt_consolidation,90000,MORTGAGE,10000,paid off
+id410,debt_consolidation,53000,MORTGAGE,23850,paid off
+id411,major_purchase,155000,MORTGAGE,2400,paid off
+id412,debt_consolidation,75000,MORTGAGE,33425,paid off
+id413,debt_consolidation,50000,MORTGAGE,4000,paid off
+id414,small_business,70000,RENT,25000,paid off
+id415,credit_card,65000,RENT,10000,paid off
+id416,debt_consolidation,75000,MORTGAGE,12000,paid off
+id417,other,39000,RENT,13000,paid off
+id418,credit_card,60000,RENT,12000,paid off
+id419,major_purchase,310000,MORTGAGE,14000,paid off
+id420,other,78000,RENT,24000,paid off
+id421,credit_card,127284,OWN,21600,paid off
+id422,debt_consolidation,85000,MORTGAGE,31525,paid off
+id423,other,27504,OWN,2000,paid off
+id424,credit_card,165000,RENT,12000,paid off
+id425,debt_consolidation,72000,MORTGAGE,14000,paid off
+id426,debt_consolidation,66000,MORTGAGE,19975,paid off
+id427,home_improvement,70000,OWN,18450,paid off
+id428,credit_card,90000,MORTGAGE,9500,paid off
+id429,other,55000,MORTGAGE,4750,paid off
+id430,debt_consolidation,98000,MORTGAGE,9600,paid off
+id431,credit_card,50000,MORTGAGE,6000,paid off
+id432,debt_consolidation,128000,MORTGAGE,10000,paid off
+id433,debt_consolidation,65000,RENT,4200,paid off
+id434,small_business,100400,MORTGAGE,10000,paid off
+id435,debt_consolidation,50000,MORTGAGE,14075,paid off
+id436,major_purchase,70000,MORTGAGE,12000,paid off
+id437,debt_consolidation,90000,MORTGAGE,24000,paid off
+id438,debt_consolidation,48000,MORTGAGE,4000,paid off
+id439,credit_card,77134,MORTGAGE,3200,paid off
+id440,debt_consolidation,92000,MORTGAGE,12000,paid off
+id441,wedding,80000,MORTGAGE,18000,paid off
+id442,wedding,42252,MORTGAGE,8000,paid off
+id443,debt_consolidation,120000,MORTGAGE,26800,paid off
+id444,credit_card,62000,RENT,6000,paid off
+id445,debt_consolidation,60000,MORTGAGE,6500,paid off
+id446,debt_consolidation,73000,RENT,24925,paid off
+id447,other,112000,RENT,18000,paid off
+id448,debt_consolidation,51996,RENT,8400,paid off
+id449,other,40000,RENT,6075,paid off
+id450,small_business,67000,RENT,13200,paid off
+id451,small_business,55000,MORTGAGE,4000,paid off
+id452,credit_card,72000,RENT,7200,paid off
+id453,debt_consolidation,55000,OWN,12000,paid off
+id454,debt_consolidation,45000,OWN,7000,paid off
+id455,debt_consolidation,41000,RENT,9525,paid off
+id456,debt_consolidation,130000,MORTGAGE,23225,paid off
+id457,major_purchase,60000,MORTGAGE,9600,paid off
+id458,wedding,180000,MORTGAGE,15000,paid off
+id459,debt_consolidation,87000,MORTGAGE,12000,paid off
+id460,credit_card,88975,OWN,4000,paid off
+id461,other,29000,RENT,4800,paid off
+id462,other,57996,MORTGAGE,8800,paid off
+id463,credit_card,105000,RENT,12000,paid off
+id464,debt_consolidation,150000,MORTGAGE,30000,paid off
+id465,debt_consolidation,39000,MORTGAGE,8000,paid off
+id466,debt_consolidation,80000,RENT,30750,paid off
+id467,car,75000,MORTGAGE,8000,paid off
+id468,home_improvement,46500,MORTGAGE,5000,paid off
+id469,debt_consolidation,81012,MORTGAGE,15000,paid off
+id470,debt_consolidation,100000,RENT,16000,paid off
+id471,debt_consolidation,48000,RENT,16000,paid off
+id472,major_purchase,41000,RENT,2000,paid off
+id473,credit_card,48000,MORTGAGE,16500,paid off
+id474,wedding,66000,RENT,15000,paid off
+id475,home_improvement,85000,MORTGAGE,8875,paid off
+id476,home_improvement,73000,MORTGAGE,9600,paid off
+id477,debt_consolidation,171000,RENT,6250,paid off
+id478,debt_consolidation,65000,MORTGAGE,16500,paid off
+id479,credit_card,86500,RENT,9600,paid off
+id480,debt_consolidation,38000,RENT,15075,paid off
+id481,credit_card,72000,MORTGAGE,4800,paid off
+id482,debt_consolidation,50000,RENT,4800,paid off
+id483,other,95000,MORTGAGE,4000,paid off
+id484,credit_card,60000,OWN,20000,paid off
+id485,debt_consolidation,40000,RENT,3000,paid off
+id486,debt_consolidation,63673,MORTGAGE,3000,paid off
+id487,credit_card,73000,MORTGAGE,4875,paid off
+id488,debt_consolidation,57000,RENT,8000,paid off
+id489,debt_consolidation,90000,RENT,35000,paid off
+id490,debt_consolidation,96000,RENT,17000,paid off
+id491,debt_consolidation,35000,RENT,12000,paid off
+id492,moving,85000,MORTGAGE,3000,paid off
+id493,small_business,140000,RENT,25000,paid off
+id494,credit_card,40000,RENT,10000,paid off
+id495,debt_consolidation,50000,RENT,12250,paid off
+id496,home_improvement,100000,MORTGAGE,30225,paid off
+id497,debt_consolidation,100000,MORTGAGE,35000,paid off
+id498,other,30000,RENT,3000,paid off
+id499,credit_card,75000,RENT,3200,paid off
+id500,medical,19881,RENT,5500,default
+id501,debt_consolidation,92000,RENT,20400,default
+id502,debt_consolidation,79000,RENT,7000,default
+id503,medical,20000,OWN,2875,default
+id504,debt_consolidation,42996,RENT,12000,default
+id505,debt_consolidation,100000,MORTGAGE,35000,default
+id506,credit_card,41184,RENT,15000,default
+id507,debt_consolidation,47000,RENT,14000,default
+id508,debt_consolidation,54500,MORTGAGE,5000,default
+id509,other,55000,OTHER,20000,default
+id510,credit_card,62000,MORTGAGE,15000,default
+id511,debt_consolidation,116000,MORTGAGE,22000,default
+id512,other,90000,MORTGAGE,20000,default
+id513,credit_card,80000,MORTGAGE,10000,default
+id514,debt_consolidation,110000,MORTGAGE,20000,default
+id515,credit_card,40400,RENT,10000,default
+id516,debt_consolidation,52000,RENT,10500,default
+id517,debt_consolidation,202000,MORTGAGE,22000,default
+id518,other,15000,RENT,5000,default
+id519,credit_card,70000,RENT,6000,default
+id520,debt_consolidation,31500,MORTGAGE,7000,default
+id521,moving,70000,MORTGAGE,3000,default
+id522,debt_consolidation,50000,RENT,21000,default
+id523,other,89000,RENT,13750,default
+id524,home_improvement,120000,MORTGAGE,16000,default
+id525,small_business,60000,RENT,6400,default
+id526,medical,40000,MORTGAGE,2125,default
+id527,debt_consolidation,36000,RENT,18000,default
+id528,house,97000,RENT,30000,default
+id529,debt_consolidation,51000,RENT,8500,default
+id530,credit_card,36000,MORTGAGE,6175,default
+id531,credit_card,111000,MORTGAGE,16000,default
+id532,major_purchase,44500,RENT,3900,default
+id533,debt_consolidation,50000,MORTGAGE,16000,default
+id534,debt_consolidation,60000,RENT,15000,default
+id535,debt_consolidation,10000,OWN,3000,default
+id536,home_improvement,37000,RENT,7000,default
+id537,debt_consolidation,116000,RENT,15850,default
+id538,debt_consolidation,50240,MORTGAGE,12000,default
+id539,home_improvement,33532,OWN,6950,default
+id540,major_purchase,62500,OWN,3000,default
+id541,credit_card,90000,MORTGAGE,24000,default
+id542,home_improvement,75000,MORTGAGE,33425,default
+id543,debt_consolidation,50000,RENT,22000,default
+id544,medical,102000,RENT,2800,default
+id545,medical,24000,RENT,2400,default
+id546,debt_consolidation,46500,MORTGAGE,16000,default
+id547,debt_consolidation,90000,RENT,15000,default
+id548,debt_consolidation,60000,MORTGAGE,20000,default
+id549,other,46963,RENT,6000,default
+id550,debt_consolidation,42000,MORTGAGE,18825,default
+id551,debt_consolidation,80000,RENT,24000,default
+id552,debt_consolidation,83258,MORTGAGE,15500,default
+id553,debt_consolidation,60000,RENT,22250,default
+id554,debt_consolidation,67000,MORTGAGE,20000,default
+id555,other,165000,RENT,15000,default
+id556,other,64575,RENT,16000,default
+id557,debt_consolidation,41990,RENT,9750,default
+id558,debt_consolidation,36000,RENT,10000,default
+id559,debt_consolidation,65000,MORTGAGE,19750,default
+id560,home_improvement,78000,MORTGAGE,9000,default
+id561,credit_card,22000,RENT,4000,default
+id562,debt_consolidation,67185,RENT,7200,default
+id563,small_business,66000,MORTGAGE,11625,default
+id564,debt_consolidation,46000,MORTGAGE,14675,default
+id565,debt_consolidation,64500,MORTGAGE,6300,default
+id566,debt_consolidation,70000,MORTGAGE,28800,default
+id567,credit_card,30000,MORTGAGE,5125,default
+id568,debt_consolidation,54500,MORTGAGE,16000,default
+id569,debt_consolidation,36000,RENT,11000,default
+id570,debt_consolidation,49000,RENT,10000,default
+id571,debt_consolidation,59780,MORTGAGE,18600,default
+id572,debt_consolidation,36144,RENT,15000,default
+id573,home_improvement,57000,MORTGAGE,7500,default
+id574,home_improvement,13164,OWN,6075,default
+id575,debt_consolidation,60000,MORTGAGE,25000,default
+id576,small_business,24000,RENT,5000,default
+id577,debt_consolidation,50000,MORTGAGE,13000,default
+id578,debt_consolidation,35000,RENT,9750,default
+id579,debt_consolidation,50000,RENT,11000,default
+id580,other,203000,RENT,25000,default
+id581,debt_consolidation,63000,MORTGAGE,18000,default
+id582,credit_card,99950,RENT,35000,default
+id583,debt_consolidation,49000,RENT,16450,default
+id584,other,45000,RENT,6000,default
+id585,debt_consolidation,71000,RENT,18000,default
+id586,other,60000,RENT,8125,default
+id587,home_improvement,55000,MORTGAGE,11500,default
+id588,car,63000,RENT,4500,default
+id589,credit_card,85761,RENT,5000,default
+id590,other,45000,OWN,3000,default
+id591,small_business,72000,MORTGAGE,10000,default
+id592,debt_consolidation,43000,RENT,18900,default
+id593,debt_consolidation,36000,OWN,12500,default
+id594,debt_consolidation,60000,RENT,15000,default
+id595,credit_card,55000,MORTGAGE,7375,default
+id596,moving,50000,RENT,3000,default
+id597,wedding,50400,RENT,1800,default
+id598,debt_consolidation,40000,MORTGAGE,12500,default
+id599,credit_card,100000,MORTGAGE,30000,default
+id600,debt_consolidation,80000,MORTGAGE,8000,default
+id601,debt_consolidation,41000,MORTGAGE,22000,default
+id602,small_business,160000,MORTGAGE,35000,default
+id603,debt_consolidation,72000,RENT,25875,default
+id604,debt_consolidation,26000,RENT,8875,default
+id605,debt_consolidation,108000,MORTGAGE,5000,default
+id606,home_improvement,24000,RENT,4750,default
+id607,major_purchase,33996,RENT,8000,default
+id608,debt_consolidation,68000,MORTGAGE,18125,default
+id609,debt_consolidation,67000,RENT,14400,default
+id610,other,70000,RENT,12000,default
+id611,house,29000,RENT,2500,default
+id612,debt_consolidation,90300,MORTGAGE,15000,default
+id613,small_business,48000,OWN,8000,default
+id614,small_business,80000,RENT,31825,default
+id615,small_business,26400,RENT,9000,default
+id616,debt_consolidation,72000,RENT,10000,default
+id617,debt_consolidation,48200,MORTGAGE,17500,default
+id618,debt_consolidation,77000,RENT,15000,default
+id619,debt_consolidation,75000,RENT,15000,default
+id620,debt_consolidation,96000,RENT,35000,default
+id621,other,42996,MORTGAGE,15000,default
+id622,debt_consolidation,36680,MORTGAGE,8000,default
+id623,debt_consolidation,110000,RENT,20000,default
+id624,wedding,45000,OWN,2500,default
+id625,major_purchase,48000,MORTGAGE,4000,default
+id626,debt_consolidation,46000,RENT,18375,default
+id627,credit_card,20800,RENT,4000,default
+id628,other,80000,RENT,3600,default
+id629,other,24000,RENT,6000,default
+id630,debt_consolidation,55200,MORTGAGE,25975,default
+id631,debt_consolidation,30000,RENT,4000,default
+id632,other,50000,RENT,3000,default
+id633,debt_consolidation,51654,MORTGAGE,18225,default
+id634,debt_consolidation,33000,RENT,11100,default
+id635,debt_consolidation,175000,MORTGAGE,13375,default
+id636,other,12000,RENT,1025,default
+id637,debt_consolidation,36297,MORTGAGE,7550,default
+id638,credit_card,22000,OWN,6350,default
+id639,debt_consolidation,150000,MORTGAGE,21000,default
+id640,debt_consolidation,175000,RENT,15000,default
+id641,debt_consolidation,95000,MORTGAGE,30000,default
+id642,debt_consolidation,93081,MORTGAGE,20000,default
+id643,house,32000,MORTGAGE,7500,default
+id644,small_business,50000,MORTGAGE,15000,default
+id645,credit_card,55000,MORTGAGE,14625,default
+id646,debt_consolidation,35200,RENT,12175,default
+id647,other,66000,MORTGAGE,20000,default
+id648,debt_consolidation,125000,RENT,35000,default
+id649,debt_consolidation,137000,RENT,21000,default
+id650,debt_consolidation,73000,MORTGAGE,14000,default
+id651,debt_consolidation,92274,MORTGAGE,35000,default
+id652,home_improvement,42000,MORTGAGE,6825,default
+id653,major_purchase,54096,RENT,1000,default
+id654,other,51600,OWN,16250,default
+id655,debt_consolidation,40000,RENT,8000,default
+id656,other,43900,RENT,5000,default
+id657,major_purchase,37000,RENT,11000,default
+id658,small_business,60225,RENT,15000,default
+id659,home_improvement,125000,MORTGAGE,20000,default
+id660,other,40000,MORTGAGE,11100,default
+id661,debt_consolidation,76198,MORTGAGE,33950,default
+id662,credit_card,60000,MORTGAGE,9000,default
+id663,home_improvement,22800,OWN,7200,default
+id664,debt_consolidation,75000,MORTGAGE,12925,default
+id665,debt_consolidation,125000,MORTGAGE,24000,default
+id666,major_purchase,168844,RENT,10000,default
+id667,debt_consolidation,70000,RENT,12000,default
+id668,debt_consolidation,75000,RENT,17100,default
+id669,debt_consolidation,49000,RENT,22000,default
+id670,debt_consolidation,27000,RENT,8000,default
+id671,other,48000,OWN,5000,default
+id672,debt_consolidation,100000,MORTGAGE,28000,default
+id673,house,52000,MORTGAGE,23950,default
+id674,debt_consolidation,54000,MORTGAGE,15000,default
+id675,small_business,36000,RENT,6000,default
+id676,debt_consolidation,35000,MORTGAGE,11500,default
+id677,debt_consolidation,59100,MORTGAGE,26375,default
+id678,debt_consolidation,120000,MORTGAGE,12000,default
+id679,major_purchase,145000,RENT,35000,default
+id680,debt_consolidation,50000,MORTGAGE,1500,default
+id681,credit_card,55000,RENT,8000,default
+id682,debt_consolidation,71240,MORTGAGE,12000,default
+id683,debt_consolidation,79000,MORTGAGE,20000,default
+id684,debt_consolidation,65000,MORTGAGE,8000,default
+id685,debt_consolidation,60000,MORTGAGE,12000,default
+id686,home_improvement,30000,RENT,10000,default
+id687,credit_card,60000,RENT,15000,default
+id688,debt_consolidation,39000,RENT,15075,default
+id689,debt_consolidation,130000,MORTGAGE,10000,default
+id690,debt_consolidation,38000,OWN,19000,default
+id691,home_improvement,68000,MORTGAGE,5250,default
+id692,credit_card,75000,MORTGAGE,15000,default
+id693,debt_consolidation,95000,MORTGAGE,15000,default
+id694,debt_consolidation,72800,MORTGAGE,7750,default
+id695,debt_consolidation,38000,MORTGAGE,14675,default
+id696,debt_consolidation,56000,RENT,5000,default
+id697,debt_consolidation,56000,MORTGAGE,15075,default
+id698,credit_card,96000,MORTGAGE,20000,default
+id699,other,43000,RENT,6000,default
+id700,other,45000,RENT,16000,default
+id701,debt_consolidation,94788,MORTGAGE,30000,default
+id702,major_purchase,73200,MORTGAGE,4200,default
+id703,debt_consolidation,103000,MORTGAGE,25000,default
+id704,debt_consolidation,27000,MORTGAGE,6000,default
+id705,debt_consolidation,58800,RENT,6000,default
+id706,debt_consolidation,61000,MORTGAGE,20000,default
+id707,credit_card,100000,MORTGAGE,17000,default
+id708,debt_consolidation,75000,RENT,26400,default
+id709,other,120000,MORTGAGE,13000,default
+id710,other,65500,MORTGAGE,10000,default
+id711,debt_consolidation,70000,RENT,15575,default
+id712,credit_card,20052,OWN,8050,default
+id713,debt_consolidation,65000,RENT,18000,default
+id714,credit_card,51500,MORTGAGE,10800,default
+id715,debt_consolidation,45953,RENT,4950,default
+id716,debt_consolidation,100000,MORTGAGE,35000,default
+id717,credit_card,35000,RENT,3000,default
+id718,debt_consolidation,100000,RENT,24000,default
+id719,debt_consolidation,45000,RENT,6000,default
+id720,credit_card,25000,RENT,8725,default
+id721,debt_consolidation,118000,RENT,35000,default
+id722,medical,48000,RENT,6000,default
+id723,debt_consolidation,95000,MORTGAGE,35000,default
+id724,small_business,126000,MORTGAGE,26400,default
+id725,credit_card,101000,MORTGAGE,24000,default
+id726,debt_consolidation,48000,RENT,3600,default
+id727,debt_consolidation,44400,RENT,7000,default
+id728,debt_consolidation,50000,MORTGAGE,21850,default
+id729,debt_consolidation,30000,RENT,10500,default
+id730,debt_consolidation,100000,MORTGAGE,7750,default
+id731,debt_consolidation,82000,MORTGAGE,12000,default
+id732,debt_consolidation,53275,MORTGAGE,14400,default
+id733,debt_consolidation,53000,MORTGAGE,7200,default
+id734,debt_consolidation,41232,RENT,4750,default
+id735,debt_consolidation,70000,RENT,15250,default
+id736,debt_consolidation,32000,MORTGAGE,1600,default
+id737,debt_consolidation,41000,RENT,6000,default
+id738,wedding,57200,RENT,2100,default
+id739,debt_consolidation,38000,RENT,12000,default
+id740,other,11400,RENT,1500,default
+id741,major_purchase,96200,RENT,33600,default
+id742,debt_consolidation,70000,RENT,22000,default
+id743,home_improvement,150000,MORTGAGE,16000,default
+id744,other,63000,OWN,7700,default
+id745,debt_consolidation,117000,MORTGAGE,30000,default
+id746,medical,73000,RENT,10000,default
+id747,debt_consolidation,50000,RENT,6000,default
+id748,debt_consolidation,27000,RENT,3000,default
+id749,debt_consolidation,90000,MORTGAGE,17600,default
+id750,debt_consolidation,22000,OWN,6250,default
+id751,debt_consolidation,80000,RENT,17625,default
+id752,debt_consolidation,49000,RENT,7200,default
+id753,small_business,43000,MORTGAGE,6250,default
+id754,small_business,126000,RENT,5000,default
+id755,home_improvement,44000,MORTGAGE,2500,default
+id756,credit_card,170000,RENT,10000,default
+id757,debt_consolidation,144000,MORTGAGE,17350,default
+id758,credit_card,22267,OWN,8600,default
+id759,credit_card,55000,RENT,11200,default
+id760,moving,30000,RENT,8000,default
+id761,debt_consolidation,87000,MORTGAGE,19000,default
+id762,debt_consolidation,17000,OWN,5075,default
+id763,debt_consolidation,60000,RENT,10000,default
+id764,debt_consolidation,110000,MORTGAGE,26375,default
+id765,debt_consolidation,100600,MORTGAGE,22000,default
+id766,debt_consolidation,31000,OWN,6400,default
+id767,debt_consolidation,125000,RENT,28000,default
+id768,debt_consolidation,367000,MORTGAGE,25000,default
+id769,credit_card,46011,RENT,20150,default
+id770,debt_consolidation,110000,RENT,12000,default
+id771,debt_consolidation,19500,RENT,2875,default
+id772,credit_card,46072,MORTGAGE,6325,default
+id773,debt_consolidation,14000,RENT,3000,default
+id774,credit_card,31000,RENT,5600,default
+id775,credit_card,43000,RENT,10000,default
+id776,debt_consolidation,68000,MORTGAGE,12000,default
+id777,credit_card,43653,RENT,10000,default
+id778,house,19200,RENT,1200,default
+id779,car,69996,MORTGAGE,12000,default
+id780,debt_consolidation,33000,RENT,12000,default
+id781,credit_card,75000,MORTGAGE,19000,default
+id782,credit_card,40000,RENT,6500,default
+id783,debt_consolidation,50000,OWN,13000,default
+id784,debt_consolidation,114999,RENT,35000,default
+id785,moving,27600,RENT,3500,default
+id786,debt_consolidation,50000,RENT,21850,default
+id787,credit_card,60000,MORTGAGE,10000,default
+id788,debt_consolidation,69000,RENT,3000,default
+id789,home_improvement,95000,MORTGAGE,35000,default
+id790,debt_consolidation,125000,MORTGAGE,28000,default
+id791,debt_consolidation,75000,RENT,20000,default
+id792,debt_consolidation,42000,RENT,8400,default
+id793,credit_card,50250,MORTGAGE,17600,default
+id794,debt_consolidation,26000,RENT,9000,default
+id795,debt_consolidation,55000,RENT,10000,default
+id796,debt_consolidation,70000,MORTGAGE,16800,default
+id797,debt_consolidation,37500,RENT,9000,default
+id798,debt_consolidation,34000,RENT,4000,default
+id799,debt_consolidation,87000,MORTGAGE,32000,default
+id800,credit_card,50000,MORTGAGE,10000,default
+id801,debt_consolidation,46104,MORTGAGE,17400,default
+id802,debt_consolidation,63600,RENT,30000,default
+id803,other,18000,RENT,3500,default
+id804,debt_consolidation,24800,RENT,5000,default
+id805,medical,55000,MORTGAGE,8000,default
+id806,credit_card,80000,MORTGAGE,20000,default
+id807,debt_consolidation,45000,MORTGAGE,14500,default
+id808,home_improvement,24000,MORTGAGE,8325,default
+id809,moving,65000,RENT,3000,default
+id810,debt_consolidation,75000,MORTGAGE,25000,default
+id811,debt_consolidation,53000,RENT,12000,default
+id812,credit_card,50000,RENT,22250,default
+id813,debt_consolidation,140000,RENT,30000,default
+id814,debt_consolidation,65000,MORTGAGE,20000,default
+id815,wedding,40000,RENT,11100,default
+id816,small_business,73000,MORTGAGE,12000,default
+id817,debt_consolidation,25000,OWN,4000,default
+id818,major_purchase,74800,MORTGAGE,9000,default
+id819,debt_consolidation,40000,MORTGAGE,16700,default
+id820,debt_consolidation,97000,MORTGAGE,24250,default
+id821,other,40000,RENT,5600,default
+id822,home_improvement,79000,MORTGAGE,2000,default
+id823,debt_consolidation,45000,RENT,10000,default
+id824,other,45000,MORTGAGE,13000,default
+id825,other,21600,RENT,6150,default
+id826,debt_consolidation,75000,RENT,25000,default
+id827,home_improvement,72000,RENT,10000,default
+id828,home_improvement,52800,MORTGAGE,5000,default
+id829,other,35000,MORTGAGE,6375,default
+id830,debt_consolidation,55000,MORTGAGE,24575,default
+id831,debt_consolidation,51000,RENT,21000,default
+id832,wedding,75000,MORTGAGE,10000,default
+id833,debt_consolidation,31500,MORTGAGE,10575,default
+id834,debt_consolidation,130000,MORTGAGE,20000,default
+id835,debt_consolidation,46000,MORTGAGE,8975,default
+id836,debt_consolidation,61968,RENT,27175,default
+id837,debt_consolidation,33900,MORTGAGE,5700,default
+id838,debt_consolidation,39000,RENT,2500,default
+id839,debt_consolidation,175000,MORTGAGE,28000,default
+id840,credit_card,56000,OWN,18000,default
+id841,debt_consolidation,48012,RENT,8325,default
+id842,other,40040,RENT,5000,default
+id843,other,40000,RENT,1800,default
+id844,credit_card,250000,RENT,12000,default
+id845,credit_card,42000,RENT,10000,default
+id846,debt_consolidation,50000,RENT,8000,default
+id847,debt_consolidation,50000,RENT,2400,default
+id848,debt_consolidation,22000,RENT,3000,default
+id849,debt_consolidation,126440,OWN,18725,default
+id850,debt_consolidation,51866,MORTGAGE,17500,default
+id851,debt_consolidation,46000,MORTGAGE,4000,default
+id852,debt_consolidation,55000,RENT,7200,default
+id853,debt_consolidation,61532,MORTGAGE,15000,default
+id854,major_purchase,117120,RENT,35000,default
+id855,debt_consolidation,120000,RENT,12000,default
+id856,small_business,13000,RENT,9250,default
+id857,debt_consolidation,44000,MORTGAGE,12000,default
+id858,debt_consolidation,60000,OWN,18000,default
+id859,debt_consolidation,70000,MORTGAGE,19125,default
+id860,debt_consolidation,49837,OWN,21850,default
+id861,debt_consolidation,100000,MORTGAGE,30000,default
+id862,credit_card,37000,RENT,16425,default
+id863,major_purchase,52164,MORTGAGE,5000,default
+id864,other,50000,RENT,9750,default
+id865,debt_consolidation,67842,RENT,16000,default
+id866,debt_consolidation,19200,RENT,4000,default
+id867,debt_consolidation,40000,MORTGAGE,10800,default
+id868,debt_consolidation,40000,MORTGAGE,15500,default
+id869,debt_consolidation,20000,RENT,5800,default
+id870,other,85152,MORTGAGE,15850,default
+id871,credit_card,80000,RENT,32000,default
+id872,debt_consolidation,55000,RENT,4000,default
+id873,credit_card,35000,MORTGAGE,8000,default
+id874,debt_consolidation,28513,RENT,9450,default
+id875,major_purchase,67000,RENT,25000,default
+id876,debt_consolidation,24835,RENT,12300,default
+id877,debt_consolidation,48000,MORTGAGE,10000,default
+id878,debt_consolidation,42536,RENT,19000,default
+id879,debt_consolidation,125000,MORTGAGE,30000,default
+id880,debt_consolidation,47000,RENT,18000,default
+id881,debt_consolidation,60000,MORTGAGE,25000,default
+id882,debt_consolidation,85000,MORTGAGE,4000,default
+id883,small_business,40000,RENT,10400,default
+id884,debt_consolidation,21000,RENT,6000,default
+id885,debt_consolidation,44000,RENT,11700,default
+id886,debt_consolidation,56000,RENT,16000,default
+id887,debt_consolidation,56000,RENT,10000,default
+id888,credit_card,42240,RENT,19000,default
+id889,credit_card,42000,MORTGAGE,12500,default
+id890,debt_consolidation,60000,RENT,10000,default
+id891,credit_card,50000,MORTGAGE,7000,default
+id892,debt_consolidation,36500,RENT,12000,default
+id893,debt_consolidation,141101,RENT,6400,default
+id894,debt_consolidation,50000,RENT,2575,default
+id895,debt_consolidation,50000,RENT,6000,default
+id896,credit_card,220000,MORTGAGE,24000,default
+id897,credit_card,70000,MORTGAGE,24000,default
+id898,debt_consolidation,78000,MORTGAGE,12000,default
+id899,credit_card,42000,RENT,12000,default
+id900,credit_card,12000,MORTGAGE,3600,default
+id901,credit_card,33600,RENT,10000,default
+id902,vacation,30000,RENT,1800,default
+id903,debt_consolidation,51996,RENT,13000,default
+id904,debt_consolidation,117000,MORTGAGE,10500,default
+id905,credit_card,35000,OWN,7125,default
+id906,debt_consolidation,42000,MORTGAGE,14675,default
+id907,debt_consolidation,140000,MORTGAGE,8000,default
+id908,other,65000,MORTGAGE,2000,default
+id909,credit_card,75000,RENT,12000,default
+id910,car,20000,OWN,1800,default
+id911,credit_card,30000,MORTGAGE,3600,default
+id912,debt_consolidation,100000,RENT,19475,default
+id913,debt_consolidation,90088,MORTGAGE,18600,default
+id914,debt_consolidation,35000,RENT,4000,default
+id915,debt_consolidation,74000,MORTGAGE,29100,default
+id916,debt_consolidation,40000,RENT,17625,default
+id917,home_improvement,123000,MORTGAGE,21000,default
+id918,credit_card,40000,RENT,8800,default
+id919,debt_consolidation,50500,MORTGAGE,22700,default
+id920,other,29000,OTHER,2200,default
+id921,debt_consolidation,33000,RENT,16000,default
+id922,other,33000,RENT,1500,default
+id923,debt_consolidation,60000,MORTGAGE,17500,default
+id924,other,32640,RENT,2000,default
+id925,debt_consolidation,51713,RENT,14000,default
+id926,major_purchase,94000,MORTGAGE,35000,default
+id927,credit_card,40000,MORTGAGE,15075,default
+id928,debt_consolidation,80000,OWN,12000,default
+id929,other,100000,MORTGAGE,15000,default
+id930,debt_consolidation,52000,RENT,22000,default
+id931,other,55000,RENT,16000,default
+id932,home_improvement,51000,RENT,15000,default
+id933,debt_consolidation,17000,RENT,4950,default
+id934,credit_card,52000,RENT,20000,default
+id935,debt_consolidation,35000,MORTGAGE,12175,default
+id936,credit_card,93000,MORTGAGE,10000,default
+id937,credit_card,69000,RENT,23750,default
+id938,other,61200,RENT,4000,default
+id939,home_improvement,41200,RENT,8000,default
+id940,credit_card,50000,RENT,21475,default
+id941,medical,60000,RENT,10000,default
+id942,debt_consolidation,32000,RENT,15850,default
+id943,debt_consolidation,40000,MORTGAGE,17500,default
+id944,wedding,38400,RENT,8400,default
+id945,credit_card,143000,MORTGAGE,20000,default
+id946,home_improvement,35000,RENT,7350,default
+id947,debt_consolidation,82000,MORTGAGE,25000,default
+id948,debt_consolidation,30680,RENT,15000,default
+id949,credit_card,66500,MORTGAGE,31500,default
+id950,credit_card,60000,OWN,10000,default
+id951,debt_consolidation,45000,RENT,3000,default
+id952,other,42000,RENT,10000,default
+id953,debt_consolidation,52000,MORTGAGE,8000,default
+id954,medical,150000,MORTGAGE,16000,default
+id955,debt_consolidation,83000,RENT,16000,default
+id956,home_improvement,72000,MORTGAGE,10000,default
+id957,debt_consolidation,55000,MORTGAGE,27050,default
+id958,debt_consolidation,65129,MORTGAGE,16000,default
+id959,debt_consolidation,45000,MORTGAGE,9000,default
+id960,debt_consolidation,100000,MORTGAGE,17600,default
+id961,debt_consolidation,28800,RENT,3000,default
+id962,other,36000,RENT,1200,default
+id963,debt_consolidation,225000,RENT,35000,default
+id964,credit_card,50000,MORTGAGE,15000,default
+id965,debt_consolidation,28000,MORTGAGE,9500,default
+id966,credit_card,50000,RENT,4000,default
+id967,debt_consolidation,115000,MORTGAGE,35000,default
+id968,medical,96000,MORTGAGE,3500,default
+id969,debt_consolidation,85200,MORTGAGE,9000,default
+id970,debt_consolidation,55000,RENT,17625,default
+id971,home_improvement,150000,OWN,12000,default
+id972,major_purchase,20000,RENT,7000,default
+id973,major_purchase,38000,RENT,10000,default
+id974,debt_consolidation,73000,RENT,7550,default
+id975,credit_card,83000,MORTGAGE,25925,default
+id976,car,17000,OWN,4500,default
+id977,debt_consolidation,44500,MORTGAGE,7500,default
+id978,debt_consolidation,45000,RENT,8875,default
+id979,debt_consolidation,30000,RENT,10050,default
+id980,vacation,50000,RENT,16000,default
+id981,debt_consolidation,68000,RENT,16000,default
+id982,debt_consolidation,29000,OWN,9950,default
+id983,debt_consolidation,115000,MORTGAGE,35000,default
+id984,credit_card,54000,RENT,16800,default
+id985,debt_consolidation,54000,RENT,9600,default
+id986,major_purchase,56000,RENT,12600,default
+id987,debt_consolidation,60000,MORTGAGE,7000,default
+id988,debt_consolidation,36000,OWN,10000,default
+id989,credit_card,60000,RENT,8000,default
+id990,other,30000,MORTGAGE,10750,default
+id991,debt_consolidation,58000,MORTGAGE,15850,default
+id992,debt_consolidation,62000,MORTGAGE,15000,default
+id993,debt_consolidation,30000,RENT,5000,default
+id994,small_business,10400,OWN,4750,default
+id995,debt_consolidation,48000,RENT,18825,default
+id996,credit_card,79400,MORTGAGE,11700,default
+id997,other,52879,MORTGAGE,7000,default
+id998,credit_card,90000,RENT,7000,default
+id999,credit_card,110000,RENT,19000,default
